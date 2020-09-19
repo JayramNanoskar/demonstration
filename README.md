@@ -1,2 +1,2 @@
 # demonstration
-First git repo on github
+Some git operations on repo in github
